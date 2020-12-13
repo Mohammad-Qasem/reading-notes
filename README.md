@@ -40,6 +40,10 @@ just write
 
 just paste the youre link between brackets. really easy :thumbsup: 
 
+4- you can add image 
+
+          ![Tux, the Linux mascot](/assets/images/tux.png)
+
 
      
      
