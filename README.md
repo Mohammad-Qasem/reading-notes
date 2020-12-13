@@ -42,8 +42,10 @@ just paste the youre link between brackets. really easy :thumbsup:
 
 4- you can add image 
 
-          ![Tux, the Linux mascot](/assets/images/tux.png)
+          ![surprised cat](/assets/images/tux.png)
+          
 
+![surprised cat](https://static.toiimg.com/photo/msid-67586673/67586673.jpg?3918697)
 
      
      
