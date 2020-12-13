@@ -4,10 +4,10 @@
 
 Hi There :smile:
 
-Do you want to build your simple web page :wink: easily and quickly ?
+Do you want to build your simple web page :wink: easily and quickly?
 Well... Check out.
 
-Markdown is a way to style text on the web and its is Easy On The Eyesand light in weight. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with (Markdown).
+Markdown is a way to style text on the web and it is Easy On The Eyes and light in weight. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with (Markdown).
 
 For example,
 
@@ -24,7 +24,7 @@ or in italic style like
        
  to be like (*your text*)  
 
-2-If you need to list of points,just write:
+2-If you need to list of points, just write:
 
      1-for the first point.
      
@@ -35,13 +35,13 @@ or in italic style like
      
 it is simple as that :heart_eyes:
      
-3-you want to write a link.
+3- you want to write a link.
 
 just write 
 
          [your link ](khttp://github.com) 
 
-just paste the your link between brackets. really easy :thumbsup: 
+just paste your link between brackets. really easy :thumbsup: 
 
 4- you can add an image 
 
