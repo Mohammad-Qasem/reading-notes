@@ -1,7 +1,1 @@
-*This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
