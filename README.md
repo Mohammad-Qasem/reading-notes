@@ -75,11 +75,11 @@ that's it
  
  when you need to focus on something which you may find difficult to achieve, you should try again, again and again, with all of your efforts because Hard work should always be rewarded before inherent skill and believe in your ability until you success.
  
- *2-Replace the word “failing” with the word “learning.”*
+ *2-Replace the word “failing” with the word “learning.”*:
  
  you should belive that When you make a mistake or fall short of a goal, you haven’t failed; you’ve learned.
  
- *3-Celebrate growth with others.*
+ *3-Celebrate growth with others*:
  
  If you truly appreciate growth, you’ll want to share your progress with others.
  
