@@ -13,13 +13,13 @@ For example,
 if you need your words in bold style so write 
 
      **youre text**
- to be like **your text**    
+ to be like (**your text**)    
 
 or in italic style like     
        
        *your text*.
        
- to be like *your text*  
+ to be like (*your text*)  
 
 2-If you need to list of points,just write:
 
