@@ -55,7 +55,7 @@ that's it
 ----------------------------------------------------------------------------------------------------
  # level up your mindset.
  
- ***befor we speaking about mindset , we should know what is mindset mean.***
+ ***befor we talking about mindset , we should know what is mindset mean.***
  
  There are two different types of mindset:
  
