@@ -87,7 +87,7 @@ that's it
  
  this is Mohamamd Qasem
  
- you can see my GitHub portfolio page in by clicking in ![M.portfolio](https://github.com/Mohammad-Qasem) 
+ you can see my GitHub portfolio page in by clicking in ![Mohammad.portfolio](https://github.com/Mohammad-Qasem) 
  
  
  If you are interensted even more chek up the references below:
