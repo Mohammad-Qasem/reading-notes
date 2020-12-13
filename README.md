@@ -8,8 +8,8 @@ Markdown is a way to style text on the web. You control the display of the docum
 For examble,
 
 1-It is easy to write some words with preferred style.
-if you need your words in bold style so write # **youre text**.
-or in italic style like # *your text*.
+if you need your words in bold style so write > **youre text**.
+or in italic style like > *your text*.
 
 2-If you need to list of points ,just write:
      1-for the first point.
