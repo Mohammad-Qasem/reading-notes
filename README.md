@@ -13,10 +13,13 @@ For examble,
 if you need your words in bold style so write 
 
      **youre text**
+ to be like **youre text**    
 
 or in italic style like     
        
        *your text*.
+       
+ to be like **youre text**  
 
 2-If you need to list of points ,just write:
 
@@ -27,11 +30,14 @@ or in italic style like
      3-for the third point.
      
      
-it is simple as that! :heart_eyes:
+it is simple as that :heart_eyes:
      
 3-you want to write link.
 
-just write [your link name](khttp://github.com) just copy the linke between brackets.
+just write 
+[your link ](khttp://github.com) 
+
+just copy the linke between brackets.
 
 
      
