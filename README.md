@@ -10,10 +10,16 @@ Markdown is a way to style text on the web. You control the display of the docum
 For examble,
 
 1-It is easy to write some words with preferred style.
-if you need your words in bold style so write **youre text**.
-or in italic style like  *your text*.
+if you need your words in bold style so write 
+
+     **youre text**
+
+or in italic style like     
+       
+       *your text*.
 
 2-If you need to list of points ,just write:
+
      1-for the first point.
      
      2-for the second point.
@@ -21,9 +27,10 @@ or in italic style like  *your text*.
      3-for the third point.
      
      
-it is simple as that!!!! :heart_eyes:
+it is simple as that! :heart_eyes:
      
 3-you want to write link.
+
 just write [your link name](khttp://github.com) just copy the linke between brackets.
 
 
