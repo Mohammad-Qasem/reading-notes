@@ -44,6 +44,8 @@ just paste the your link between brackets. really easy :thumbsup:
 
           ![surprised cat](/assets/images/tux.png)
           
+ and you can see the image as shown         
+          
 
 ![surprised cat](https://static.toiimg.com/photo/msid-67586673/67586673.jpg?3918697)
 
