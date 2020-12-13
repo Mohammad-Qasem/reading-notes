@@ -18,7 +18,7 @@ or in italic style like  *your text*.
      2-for the second point.
      3-for the third point.
      
-     it is simple as that!!!! :heart_eyes:
+it is simple as that!!!! :heart_eyes:
      
 3-you want to write link.
 just write [your link name](khttp://github.com) just copy the linke between brackets.
