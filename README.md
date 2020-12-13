@@ -35,9 +35,10 @@ it is simple as that :heart_eyes:
 3-you want to write link.
 
 just write 
-[your link ](khttp://github.com) 
 
-just copy the linke between brackets.
+         [your link ](khttp://github.com) 
+
+just write the youre link between brackets.
 
 
      
