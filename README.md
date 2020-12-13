@@ -38,7 +38,7 @@ just write
 
          [your link ](khttp://github.com) 
 
-just paste the youre link between brackets.
+just paste the youre link between brackets. really easy :thumbsup: 
 
 
      
