@@ -88,7 +88,9 @@ that's it
  
  
  
- 
+ If you are interensted even more chek up the references below:
+  * [Mindsit](https://www.atlassian.com/blog/inside-atlassian/growth-mindset).
+  * [Markdown](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax).
 
  
  
