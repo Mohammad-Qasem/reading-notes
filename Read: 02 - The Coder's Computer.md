@@ -33,7 +33,7 @@ computers, Mac computers and Linux computers.
 
 Text editors are used gives away what it does in the title—it edits text.It also manages text, and manages files. Wherase An IDE (Integrated Development Environment) is really a suite of different software all coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package.
 
-# TERMINAL
+# Terminal
 -The comand line:command line,or terminal is a text based interface to the system, you are able to enter commands by typing.
 
 -command (ls):Will show the list of where are you in your PC.
