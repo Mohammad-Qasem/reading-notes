@@ -5,14 +5,14 @@ to build a web site.
 
 What features should you look for in a text editor?
 
-1-Code completion.
+* Code completion.
 where display possiple suggestions.
 
-2-Syntax highlighting.
+* Syntax highlighting.
 
-3-a nice variety of themes (to reduce eye strain and fatigue).
+* a nice variety of themes (to reduce eye strain and fatigue).
 
-4-Nice series of themes (change color).
+* Nice series of themes (change color).
 
 
 Examples:
