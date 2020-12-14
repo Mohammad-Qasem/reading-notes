@@ -18,10 +18,11 @@ where display possiple suggestions.
 Examples:
 
 1-Notepad++:free editor for windows only.
-[GitHub Logo](/images/logo.png)
+[notepad++](https://www.computerhope.com/jargon/n/notepad-plus-plus.jpg)
 
 
 2-Visual studio code:dree editor from microsoft windows used for Windows, Mac and Linux.
+[Visual studio](https://pbs.twimg.com/profile_images/1278357302601347072/BGZIBPH9.jpg)
 
 3-TextWrangler/BB Edit:TextWrangler is for Mac computers only, and you used to be able to
 download it from the Mac App Store.
