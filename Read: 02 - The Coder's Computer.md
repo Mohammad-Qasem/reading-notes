@@ -19,6 +19,7 @@ Examples:
 
 1-Notepad++:free editor for windows only.
 
+
 2-Visual studio code:dree editor from microsoft windows used for Windows, Mac and Linux.
 
 3-TextWrangler/BB Edit:TextWrangler is for Mac computers only, and you used to be able to
