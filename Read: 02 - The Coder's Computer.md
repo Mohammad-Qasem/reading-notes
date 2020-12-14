@@ -18,6 +18,7 @@ where display possiple suggestions.
 Examples:
 
 1-Notepad++:free editor for windows only.
+[GitHub Logo](/images/logo.png)
 
 
 2-Visual studio code:dree editor from microsoft windows used for Windows, Mac and Linux.
@@ -37,11 +38,11 @@ Text editors are used gives away what it does in the title—it edits text.It al
 # Terminal
 -The comand line:command line,or terminal is a text based interface to the system, you are able to enter commands by typing.
 
--command (ls):Will show the list of where are you in your PC.
+-command (ls):will show the list of where are you in your PC.
 
 -command (cd [location]): which stands for chang directory.
 
--command (pwd)
+-command (pwd): allow you show your present directory.
 
 
 
