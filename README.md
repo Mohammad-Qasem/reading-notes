@@ -39,20 +39,20 @@ it is simple as that :heart_eyes:
 
 just write 
 
-         [your link ](khttp://github.com) 
+         [your link ](khttp://github.com). 
 
 just paste your link between brackets. really easy :thumbsup: 
 
 4- you can add an image 
 
-          ![surprised cat](/assets/images/tux.png)
+          ![surprised cat](/assets/images/tux.png).
           
  and you can see the image as shown         
           
 
 ![surprised cat](https://static.toiimg.com/photo/msid-67586673/67586673.jpg?3918697).
 
-that's it
+that's it.
 
 
  # level up your mindset.
@@ -89,7 +89,7 @@ that's it
  
  this is Mohamamd Qasem
  
- you can see my GitHub portfolio page in by clicking in ![Mohammad.portfolio](https://github.com/Mohammad-Qasem) 
+ you can see my GitHub portfolio page in by clicking in [Mohammad.portfolio](https://github.com/Mohammad-Qasem) 
  
  
  If you are interensted even more chek up the references below:
