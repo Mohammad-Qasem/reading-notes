@@ -1,58 +1,41 @@
-# CSS Ass ociates Style rules with HT ML elements
-CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: a selector and a declaration.
+# What is computers and how they work
 
-[declaration](https://djnmarti.com/foothill/coin65/week_02/images/anatomy_css_rule.gif)
+A computer is an electronic machine that processes information—in other words, an information processor: it takes in raw information (or data) at one end, stores it until it's ready to work on it, chews and crunches it for a bit, then spits out the results at the other end. All these processes have a name. Taking in information is called input, storing information is better known as memory (or storage), chewing information is also known as processing, and spitting out results is called output.
 
-## So we can see it consist of 
-1-Selectors indicate which element the rule applies to.The same rule can apply to more than one element if you separate the element names with commas.
+![computer](https://www.fixo2o.com/image/fixo2o/image/data/category/about1.jpg)
 
-2-Declarations indicate how the elements referred to in the selector should be styled. Declarations are split into two parts (a property and a value), and are separated by a colon.
+# circuit and logic inside computer.
 
-## How to make css effect on your html.
+Computers often chain logic gates together, by taking the output from one gate and using it as the input to another gate. We call that a logic circuit.Circuits enables computers to do more complex operations than they could accomplish with just a single gate.The smallest circuit is a chain of 2 logic gates.
 
-you should make a file with (.css) extention, and in your html file you should write the reference code of the css style to create that effict as the following
-
-                <link href="css/example.css" type="text/css"rel="stylesheet" />
-
-wehre the tag **link** under the tag <head> should be used to make the effect.
-  
-
-some of the following table will help yo to write your code in Css file:
-
-Selector | Meaning | Example 
------------- | ------------- | ------------ 
-Universal Selector | Applies to all elements in the document | * { } Targets all elements on the page
-Type Selector | Matches element names | h1, h2, h3 { } Targets the 'h1 h2 and h3' elements 
-Descendant Selector | Matches an element that is a descendent of another specified element (not just a direct child of that element) | p (a) { } Targets any a elements that sit inside a (p) element, even if there are other elements nested between them.
-
-
-### more detaled examble
-
-* for HTML
-
-                           <div class="page">
-                           <h1>Potatoes</h1>
-                           <p>There are dozens of different potato
-                              varieties.</p>
-                           <p>They are usually described as early, second
-                              early and maincrop potatoes.</p>
-                           </div>
-                           
-* for CSS                          
-                            
-                            body {
-                            font-family: Arial, Verdana, sans-serif;
-                            color: #665544;
-                            padding: 10px;}
-                           .page {
-                            border: 1px solid #665544;
-                            background-color: #efefef;
-                            padding: inherit;}
-                           
-                           
-Note: you can see numbers like #665544 and these represents the color you need , and you can just google it to find whatever you need. 
+![gate](https://i.pinimg.com/originals/0c/19/25/0c1925a59240ec9623f584cf7e16c471.jpg)
 
 
 
+## The three main ways of specifying the function of a combinational logic circuit are:
 
+1. Boolean Algebra – This forms the algebraic expression showing the operation of the logic circuit for each input variable either True or False that results in a logic “1” output.
+
+2. Truth Table – A truth table defines the function of a logic gate by providing a concise list that shows all the output states in tabular form for each possible combination of input variable that the gate could encounter.
+
+3. Logic Diagram – This is a graphical representation of a logic circuit that shows the wiring and connections of each individual logic gate, represented by a specific graphical symbol, that implements the logic circuit.
+
+and all three of these logic circuit representations are shown below.
+
+![logic](https://www.electronics-tutorials.ws/wp-content/uploads/2018/05/combination-comb25.gif)
+
+
+# Cpu and memory.
+
+simply A central processing unit (CPU), also called a central processor, main processor or just processor, is the electronic circuitry within a computer that executes instructions that make up a computer program.
+
+![cpu](https://www.techspot.com/articles-info/2000/images/2020-04-06-image-9.jpg)
+
+Memory is the faculty of the brain by which data or information is encoded, stored, and retrieved when needed. It is the retention of information over time for the purpose of influencing future action.
+
+There are several memories in compters are RAM and ROM:
+
+There are several major differences between a ROM (read-only memory) chip and a RAM (random-access memory) chip. The differences revolve around the uses, storage capabilities and capacity, and physical sizes of ROM and RAM chips.
+
+![memory](https://arabtechub.com/wp-content/uploads/2018/02/RAM-vs-ROM-by-arabtechub.jpg)
 
