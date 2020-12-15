@@ -1,7 +1,7 @@
-# CSS Ass ociates Style rules with HT ML elements
+# CSS Associates Style rules with HT ML elements
 CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: a selector and a declaration.
 
-[declaration](https://djnmarti.com/foothill/coin65/week_02/images/anatomy_css_rule.gif)
+![declaration](https://djnmarti.com/foothill/coin65/week_02/images/anatomy_css_rule.gif)
 
 ## So we can see it consist of 
 1-Selectors indicate which element the rule applies to.The same rule can apply to more than one element if you separate the element names with commas.
